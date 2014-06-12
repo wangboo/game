@@ -1,0 +1,2 @@
+
+console.log([].contains('a'))
